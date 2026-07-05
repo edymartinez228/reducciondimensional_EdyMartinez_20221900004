@@ -1,0 +1,5 @@
+{
+    "muestras_entrenamiento": 6400,
+    "accuracy_test": 0.9675,
+    "n_componentes_max": 50
+}
